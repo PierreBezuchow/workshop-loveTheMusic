@@ -11,3 +11,29 @@ body {
   max-width: 1350px;
   margin: 0 auto;
 }
+
+.button {
+  font-size: 15px;
+  text-transform: uppercase;
+  color: white;
+  display: inline-block;
+  padding: 18px 55px;
+  background: #222;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.5s all;
+}
+.button:hover{
+  background:$color-main;
+  color:#222;
+
+}
+
+.row{
+  display: flex;
+}
+.row .col{
+  margin:0 15px;
+  flex-grow: 1;
+}
