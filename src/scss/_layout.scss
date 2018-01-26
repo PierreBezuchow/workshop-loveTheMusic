@@ -37,3 +37,13 @@ body {
   margin:0 15px;
   flex-grow: 1;
 }
+
+@media (max-width: 980px) {
+  .row{
+    flex-direction: column;
+  }
+  .row .col{
+    margin-bottom: 40px;
+    text-align: center;
+  }
+}
