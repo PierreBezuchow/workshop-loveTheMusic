@@ -3,10 +3,10 @@
 Training workshop developed with lecturer during Coders Lab course.
 
 ### Technologies:
-*CSS (Sass);
-*Css animations;
-*RWD;
-*work with svg graphic;
+* CSS (Sass);
+* Css animations;
+* RWD;
+* work with svg graphic;
 
 ### Project preview:
 
